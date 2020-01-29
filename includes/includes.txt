@@ -1,0 +1,5 @@
+Any pages that the user cannot see or visit. 
+
+prepared statement code/logic inspired from w3 school and mtuts webpage; SQL structure and php code modified for application
+
+syntax/structure from tutorials from various youtube videos
